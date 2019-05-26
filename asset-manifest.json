@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/StarWars/static/css/main.ecc419dd.chunk.css",
+    "main.js": "/StarWars/static/js/main.36ded4f8.chunk.js",
+    "main.js.map": "/StarWars/static/js/main.36ded4f8.chunk.js.map",
+    "runtime~main.js": "/StarWars/static/js/runtime~main.41ad9c12.js",
+    "runtime~main.js.map": "/StarWars/static/js/runtime~main.41ad9c12.js.map",
+    "static/css/2.e40df323.chunk.css": "/StarWars/static/css/2.e40df323.chunk.css",
+    "static/js/2.b0408cd9.chunk.js": "/StarWars/static/js/2.b0408cd9.chunk.js",
+    "static/js/2.b0408cd9.chunk.js.map": "/StarWars/static/js/2.b0408cd9.chunk.js.map",
+    "index.html": "/StarWars/index.html",
+    "precache-manifest.c2b1c4e38876f29f9568a6b57f69ae0f.js": "/StarWars/precache-manifest.c2b1c4e38876f29f9568a6b57f69ae0f.js",
+    "service-worker.js": "/StarWars/service-worker.js",
+    "static/css/2.e40df323.chunk.css.map": "/StarWars/static/css/2.e40df323.chunk.css.map",
+    "static/css/main.ecc419dd.chunk.css.map": "/StarWars/static/css/main.ecc419dd.chunk.css.map",
+    "static/media/TextFlow.css": "/StarWars/static/media/Death Star.ade91cb0.otf",
+    "static/media/Tatooine.png": "/StarWars/static/media/Tatooine.883a1ed7.png",
+    "static/media/TwinklingStars.css": "/StarWars/static/media/stars.6494ab5b.png"
+  }
+}
